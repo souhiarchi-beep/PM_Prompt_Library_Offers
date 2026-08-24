@@ -1,4 +1,4 @@
-# Prompt Library: Senior PM — Offers & Smart Campaigns (Delivery/Logistics)
+# Prompt Library: Senior PM 
 
 A set of reusable prompts for the five tasks that come up most for a senior PM running offers and smart campaigns on a delivery/logistics platform. Each prompt is written to be pasted into Claude (or another LLM) with your specifics filled in.
 
